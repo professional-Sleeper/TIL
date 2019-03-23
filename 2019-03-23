@@ -1,0 +1,14 @@
+GIT
+
+I learn a bit about git from commands to the basics of configuration management.
+It's a easy to upload using git command in local environment. but It's hard to understand concpets of git.
+especially concepts of upstream, Merging branches are more difiicult.
+I think it is important to distinguish between the branch, origin, and master concepts and use it correctly.
+So next day, I will study focus on branch concept.
+
+Dynamic Programming (DP)
+
+I solve the Baekjoon problem using DP. 
+In first, I think that DP is just looking for common formula and use it to make current array.
+But in the process of solving problem, I make mistake that apply same formula to all variable.
+I realize that apply different fomula accoding to step,variable. I think word 'Dyanmic' is included in the DP because of that.
