@@ -1,0 +1,14 @@
+I solve 2 problems using DP.
+At first, It's a very easy problem. but I'dont pass at once.
+I think there are two reasons.
+
+1. Problem condition
+In problem_No.2156, there are writed that don't drink continiously more than 3 glasses of wine.
+But, I understand It can drink 3 glasses. So I submit wrong answer.
+
+2. Memory limits
+In problem_No.2293, I make an array of [110][11000] size.
+But the size of memories given to me, only 4MB.
+So It generate memory libits error.
+
+When designing algoritm in the future, should check memeory size, problem condition.
