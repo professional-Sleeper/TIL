@@ -1,0 +1,14 @@
+I write code about LCA today. I have experience writing this algorithm, But don't remeber that.
+Finally I search this algorithm. However I make two mistake.
+
+First.
+
+I don't test my code in function units. When computer print wrong answer, I can't find problem easliy.
+Fortunally, I write method code by function. I realize importance of dividing code by function.
+
+Second.
+
+I don't give right name to variables. Later when I write method code, I am confused to using variable.
+Because variables with simliar contents has similar name.
+So computer print wrong answer. Then I spend a lot of time finding bugs.
+In future, I give indepent variable name even if It's too long.
